@@ -25,7 +25,7 @@
 - **RabbitMQ** - Message-broker.
 - **NextJS** - Framework *frontend*.
 
-### Design patterns
+### Padrões
 - APIs Restful.
 - Micro-serviços
   - [CQRS](https://microservices.io/patterns/data/cqrs.html)
