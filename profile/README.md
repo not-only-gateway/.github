@@ -23,7 +23,7 @@
   - pyJWT
   - pika
 - **RabbitMQ** - Message-broker.
-- **NextJS** - Linguagem *frontend*.
+- **NextJS** - Framework *frontend*.
 
 ### Design patterns
 - APIs Restful.
